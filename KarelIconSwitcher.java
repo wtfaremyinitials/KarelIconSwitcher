@@ -89,7 +89,7 @@ public class KarelIconSwitcher {
     	KAREL_NORTH_OFF("karelImageNOffBase"),
     	KAREL_SOUTH_OFF("karelImageSOffBase"),
     	KAREL_EAST_OFF("karelImageEOffBase"),
-    	KAREL_WEST_OFF("karelImagWNOffBase");
+    	KAREL_WEST_OFF("karelImagWOffBase");
     	
     	private String fieldName;
     	
